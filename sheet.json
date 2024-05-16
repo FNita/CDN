@@ -1,0 +1,881 @@
+{
+"total": 125,
+"totalNotFiltered": 125,
+"rows": [
+{
+"PLACE": "GLENEARN ROAD MASJID",
+"FAJR": "06:00",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:15"
+},
+{
+"PLACE": "MASJID AL HILAL",
+"FAJR": "06:05",
+"ZOHR": "12:30",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "RANDLES ROAD MASJID",
+"FAJR": "05:21",
+"ZOHR": "13:00",
+"ASAR": "16:25",
+"ESHA": "18:43"
+},
+{
+"PLACE": "MASJID US SALIHEEN",
+"FAJR": "05:50",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJID E NOOR",
+"FAJR": "05:50",
+"ZOHR": "13:10",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJIDUS SALAAM",
+"FAJR": "05:30",
+"ZOHR": "13:15",
+"ASAR": "16:45",
+"ESHA": "19:15"
+},
+{
+"PLACE": "SPARKS ROAD MASJID",
+"FAJR": "05:50",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJID UMAR FAROOQ",
+"FAJR": "06:00",
+"ZOHR": "13:00",
+"ASAR": "16:15",
+"ESHA": "19:15"
+},
+{
+"PLACE": "MASJID MUEEN UDDEEN",
+"FAJR": "06:10",
+"ZOHR": "12:40",
+"ASAR": "16:30",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJID AL QUBA",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "LODGE GROVE MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "LOCKHAT MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:10",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "45TH CUTTING SOOFIE MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "ALPINE ROAD SOOFIE MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJID FATHIMA",
+"FAJR": "05:45",
+"ZOHR": "13:15",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "AVONDALE MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "13:10",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MARKAZ UL ANSAAR",
+"FAJR": "05:45",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:15"
+},
+{
+"PLACE": "STANLEY COPLEY DRIVE MUSALLA",
+"FAJR": "05:15",
+"ZOHR": "13:00",
+"ASAR": "17:00",
+"ESHA": "19:30"
+},
+{
+"PLACE": "CANON AVENUE MUSALLA",
+"FAJR": "05:50",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:30"
+},
+{
+"PLACE": "MUSALLA MADINAH BRICK FIELD RD",
+"FAJR": "05:30",
+"ZOHR": "12:50",
+"ASAR": "16:30",
+"ESHA": "19:30"
+},
+{
+"PLACE": "MUSALLA AL IKHLAAS",
+"FAJR": "05:55",
+"ZOHR": "13:15",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "AL ANSAAR MUSALLA",
+"FAJR": "05:30",
+"ZOHR": "13:00",
+"ASAR": "17:00",
+"ESHA": "19:45"
+},
+{
+"PLACE": "ALCOCK MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "12:45",
+"ASAR": "16:30",
+"ESHA": "19:15"
+},
+{
+"PLACE": "INNES ROAD MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSALLA BANI ADAM",
+"FAJR": "05:30",
+"ZOHR": "12:40",
+"ASAR": "16:30",
+"ESHA": "19:15"
+},
+{
+"PLACE": "NEW ERA HOUSE MUSALLA",
+"FAJR": "06:00",
+"ZOHR": "13:00",
+"ASAR": "16:15",
+"ESHA": "19:30"
+},
+{
+"PLACE": "MUSALLA HANZALA",
+"FAJR": "06:00",
+"ZOHR": "13:10",
+"ASAR": "16:30",
+"ESHA": "19:15"
+},
+{
+"PLACE": "GEM TOWERS MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "12:30",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "AL HUDA MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "12:45",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "KHANQAH ASHRAFIA AKHTARIA",
+"FAJR": "05:25",
+"ZOHR": "12:30",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "HOWARD COLLEGE MUSALLA",
+"FAJR": "NO SALH",
+"ZOHR": "12:35",
+"ASAR": "NO SALH",
+"ESHA": "NO SALH"
+},
+{
+"PLACE": "NMJ MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "12:20",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJIDUS SIDDEEQ",
+"FAJR": "05:45",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MAY STREET MASJID",
+"FAJR": "06:00",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "GREY STREET JUMA MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:10",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "WEST STREET MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:10",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJID MARYAM",
+"FAJR": "05:30",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJIDUL MISBAAH",
+"FAJR": "05:30",
+"ZOHR": "13:15",
+"ASAR": "16:30",
+"ESHA": "19:00"
+},
+{
+"PLACE": "ALBERT STREET MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "13:15",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSALLA AN NOOR",
+"FAJR": "05:30",
+"ZOHR": "13:10",
+"ASAR": "16:30",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSALLA AL QAASIM",
+"FAJR": "05:15",
+"ZOHR": "13:10",
+"ASAR": "16:45",
+"ESHA": "19:30"
+},
+{
+"PLACE": "KISMET ARCADE MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "13:15",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSALLA IMAM AN NAWAWI",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:45",
+"ESHA": "19:00"
+},
+{
+"PLACE": "BROAD STREET MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "13:10",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSALLA IMAAMU SHAAFI",
+"FAJR": "05:45",
+"ZOHR": "12:30",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "SOUTH BEACH MUSALLA",
+"FAJR": "05:40",
+"ZOHR": "12:30",
+"ASAR": "16:15",
+"ESHA": "18:50"
+},
+{
+"PLACE": "MALING TON MUSALLA",
+"FAJR": "06:10",
+"ZOHR": "13:15",
+"ASAR": "16:30",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MONT BLANC MUSALLA",
+"FAJR": "06:00",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:15"
+},
+{
+"PLACE": "MASJID AL MEHDHAR",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "BELMONT MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "ORIENT MUSALLA",
+"FAJR": "NO SALH",
+"ZOHR": "13:20",
+"ASAR": "NO SALH",
+"ESHA": "NO SALH"
+},
+{
+"PLACE": "AKSONS MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "12:30",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSALLA UMAR AL FAROOQ",
+"FAJR": "16:50",
+"ZOHR": "13:15",
+"ASAR": "16:45",
+"ESHA": "20:00"
+},
+{
+"PLACE": "MASJID E MAH MOOD",
+"FAJR": "05:45",
+"ZOHR": "12:45",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSJID IZHAARUL HAQ",
+"FAJR": "06:00",
+"ZOHR": "13:15",
+"ASAR": "16:30",
+"ESHA": "19:00"
+},
+{
+"PLACE": "RESER VOIR HILLS MASJID",
+"FAJR": "05:45",
+"ZOHR": "12:45",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "WEST VILLE JAAME MASJID",
+"FAJR": "05:45",
+"ZOHR": "12:45",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "WEST VILLE SOOFIE MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:10",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSJID MUTTA QEEN",
+"FAJR": "05:45",
+"ZOHR": "12:45",
+"ASAR": "16:45",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSJID NOORUL ISLAM",
+"FAJR": "06:00",
+"ZOHR": "13:00",
+"ASAR": "16:30",
+"ESHA": "19:00"
+},
+{
+"PLACE": "PINETOWN ANJUMAN MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:15",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSALLA ABU BAKR SIDDIQUE",
+"FAJR": "06:00",
+"ZOHR": "12:30",
+"ASAR": "16:30",
+"ESHA": "19:15"
+},
+{
+"PLACE": "HILL CREST MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "12:45",
+"ASAR": "16:30",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSALLA MAH MOOD IYYAH",
+"FAJR": "05:50",
+"ZOHR": "13:15",
+"ASAR": "16:45",
+"ESHA": "19:15"
+},
+{
+"PLACE": "MUSALLA MAZHAR UL ISLAM",
+"FAJR": "04:20",
+"ZOHR": "13:00",
+"ASAR": "17:45",
+"ESHA": "20:45"
+},
+{
+"PLACE": "MUSALLA ABRAAR",
+"FAJR": "05:50",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MOTALA HEIGHTS MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "UKZN WEST VILLE MUSALLA",
+"FAJR": "NO SALH",
+"ZOHR": "12:50",
+"ASAR": "NO SALH",
+"ESHA": "NO SALH"
+},
+{
+"PLACE": "MUSALLA MU'AZ IBN JABAL",
+"FAJR": "06:00",
+"ZOHR": "12:30",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJID EBRAHIM",
+"FAJR": "05:30",
+"ZOHR": "13:15",
+"ASAR": "12:00",
+"ESHA": "19:15"
+},
+{
+"PLACE": "MASJID EL YUSUF",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJID UT TAQWA",
+"FAJR": "05:40",
+"ZOHR": "13:00",
+"ASAR": "16:15",
+"ESHA": "18:50"
+},
+{
+"PLACE": "RIVERSIDE MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "KENVILLE SOOFIE MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "QUEENS BRIDGE MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:10",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJIDUR RAHMAN",
+"FAJR": "05:30",
+"ZOHR": "13:20",
+"ASAR": "16:15",
+"ESHA": "19:15"
+},
+{
+"PLACE": "SUNFORD MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:30",
+"ESHA": "19:15"
+},
+{
+"PLACE": "UMHLAN GA SOCIETY MASJID",
+"FAJR": "05:50",
+"ZOHR": "13:00",
+"ASAR": "16:30",
+"ESHA": "19:15"
+},
+{
+"PLACE": "MASJID ABUBAKR SIDDIQUE",
+"FAJR": "05:45",
+"ZOHR": "13:10",
+"ASAR": "16:35",
+"ESHA": "19:30"
+},
+{
+"PLACE": "MASJID HASIN UD DIN",
+"FAJR": "05:30",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:15"
+},
+{
+"PLACE": "SPINE ROAD MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:15"
+},
+{
+"PLACE": "MASJID US SAHAA BAH",
+"FAJR": "17:00",
+"ZOHR": "12:45",
+"ASAR": "05:30",
+"ESHA": "20:30"
+},
+{
+"PLACE": "MASJID BILAL",
+"FAJR": "05:40",
+"ZOHR": "13:00",
+"ASAR": "16:15",
+"ESHA": "18:50"
+},
+{
+"PLACE": "MASJID SUFI SUBHANI",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "KWA MASHU MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "NEW LANDS EAST MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "INANDA NORTH MASJID",
+"FAJR": "NO SALH",
+"ZOHR": "13:00",
+"ASAR": "NO SALH",
+"ESHA": "NO SALH"
+},
+{
+"PLACE": "KENVILLE MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "13:05",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSALLA MUSAB BIN UMAYR",
+"FAJR": "05:50",
+"ZOHR": "13:00",
+"ASAR": "16:30",
+"ESHA": "19:15"
+},
+{
+"PLACE": "GATEWAY MUSALLA",
+"FAJR": "05:50",
+"ZOHR": "13:15",
+"ASAR": "16:30",
+"ESHA": "19:15"
+},
+{
+"PLACE": "LA LUCIA MUSALLA",
+"FAJR": "05:10",
+"ZOHR": "13:15",
+"ASAR": "17:15",
+"ESHA": "20:00"
+},
+{
+"PLACE": "PEARLS MUSALLA",
+"FAJR": "05:50",
+"ZOHR": "13:00",
+"ASAR": "16:30",
+"ESHA": "19:15"
+},
+{
+"PLACE": "ISIPINGO BEACH MASJID",
+"FAJR": "06:00",
+"ZOHR": "13:00",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "ISIPINGO HILLS MASJID",
+"FAJR": "05:50",
+"ZOHR": "13:15",
+"ASAR": "16:00",
+"ESHA": "19:15"
+},
+{
+"PLACE": "KLIPPERS WAY MASJID",
+"FAJR": "06:10",
+"ZOHR": "13:10",
+"ASAR": "16:30",
+"ESHA": "18:46"
+},
+{
+"PLACE": "TALEEMUD DEEN MASJID",
+"FAJR": "05:30",
+"ZOHR": "13:30",
+"ASAR": "16:15",
+"ESHA": "21:00"
+},
+{
+"PLACE": "JUNCTION MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:10",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "ISIPINGO RAIL MASJID",
+"FAJR": "06:00",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJID E TAZKIYAH",
+"FAJR": "05:45",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "BAITUL HAMD MUSALLA",
+"FAJR": "05:50",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJID E QUWW ATUL ISLAM",
+"FAJR": "05:50",
+"ZOHR": "13:15",
+"ASAR": "16:30",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJIDUN NASR",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "FLOWER ROAD MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "KINGREST MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MERE BANK MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:10",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "AUSTER VILLE MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "WENTWORTH MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "HABIBIA MANZARE ISLAM MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:05",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MASJID AL IKRAAM",
+"FAJR": "05:45",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "LOTUS PARK MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "ORIENT HILLS MASJID",
+"FAJR": "05:45",
+"ZOHR": "12:30",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "UMKO MAAS MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "PARK RYNIE MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:20",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "UMLAZI V-SECTION MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:15",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "UMLAZI W-SECTION MASJID",
+"FAJR": "05:45",
+"ZOHR": "12:45",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSALLA E DAWOOD",
+"FAJR": "05:55",
+"ZOHR": "13:15",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSALLA RABIA",
+"FAJR": "05:50",
+"ZOHR": "13:00",
+"ASAR": "16:30",
+"ESHA": "19:00"
+},
+{
+"PLACE": "SEA VIEW MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "13:15",
+"ASAR": "16:15",
+"ESHA": "19:00"
+},
+{
+"PLACE": "GOKUL ROAD MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "12:30",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "AMANZIM TOTI MUSALLA",
+"FAJR": "05:40",
+"ZOHR": "12:30",
+"ASAR": "16:15",
+"ESHA": "19:15"
+},
+{
+"PLACE": "WINKLE SPRUIT MASJID",
+"FAJR": "05:45",
+"ZOHR": "13:15",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSALLA SULAY MAN",
+"FAJR": "05:45",
+"ZOHR": "12:45",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MUSALLA E FATHIMA",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:30",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MALVERN MUSALLA",
+"FAJR": "05:45",
+"ZOHR": "13:00",
+"ASAR": "16:00",
+"ESHA": "19:00"
+},
+{
+"PLACE": "MERE BANK MALL MUSALLA",
+"FAJR": "06:00",
+"ZOHR": "13:00",
+"ASAR": "16:15",
+"ESHA": "19:00"
+}
+]
+}
